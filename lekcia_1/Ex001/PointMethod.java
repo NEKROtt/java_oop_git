@@ -1,4 +1,4 @@
-package Lesson_07.Ex001;
+package lekcia_1.Ex001;
 
 public class PointMethod {
     static double distance(int x1, int y1, int x2, int y2) {
@@ -15,5 +15,4 @@ public class PointMethod {
         // Создать точку 
         // Печать точки
     }
-
 }
